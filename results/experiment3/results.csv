@@ -1,0 +1,3 @@
+group,images,correct,accuracy_percent,metric,sampler,steps,cfg,generation_seconds,seed,batch_size,hardware
+real_test,100,100,100,accuracy against true test labels,none,0,,,42,20,NVIDIA RTX 2000 Ada Generation
+generated,100,100,100,agreement with requested labels,ddim,50,3,11.007321111974306,42,20,NVIDIA RTX 2000 Ada Generation
