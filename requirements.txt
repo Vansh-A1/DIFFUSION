@@ -1,0 +1,9 @@
+# Versions used for the published MNIST experiments (Python 3.13).
+# Install a PyTorch wheel appropriate for your GPU/OS before this file if needed.
+torch==2.10.0
+torchvision==0.25.0
+diffusers==0.40.0
+matplotlib==3.11.1
+numpy==2.4.2
+Pillow==12.1.1
+huggingface-hub==1.33.0
